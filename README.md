@@ -1,3 +1,29 @@
+## 🛠 작업 환경 (Environment)
+
+| 구분          | 기술 스택 / 도구 | 버전 |
+|---------------|----------------|------|
+| **Frontend**  | React          | 18.x |
+|               | Node.js        | 20.x |
+|               | npm            | 10.x |
+|               | Axios          | 최신 |
+|               | React Router DOM | 최신 |
+|               | Styled-components / Tailwind CSS *(선택)* | 최신 |
+| **Backend**   | Java           | 17   |
+|               | Spring Boot    | 3.x  |
+|               | Spring Security (JWT) | 최신 |
+|               | JPA(Hibernate) / MyBatis *(선택)* | 최신 |
+|               | Maven / Gradle | 최신 |
+| **Database**  | MySQL          | 8.0.34 |
+|               | MySQL Workbench *(선택)* | 최신 |
+| **Authentication** | JWT (JSON Web Token) | 최신 |
+| **IDE & Tools** | IntelliJ IDEA / Eclipse | 최신 |
+|               | VS Code        | 최신 |
+|               | Postman        | 최신 |
+|               | Git / GitHub   | 최신 |
+
+
+
+
 <img width="549" height="800" alt="back_4" src="https://github.com/user-attachments/assets/ad4e42e8-4ab7-4e40-bec4-973a318060d8" />
 <img width="386" height="569" alt="front_2" src="https://github.com/user-attachments/assets/4a064ccc-373f-4657-adb6-b212b929669f" />
 
