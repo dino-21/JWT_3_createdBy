@@ -17,7 +17,7 @@
 |               | JPA(Hibernate) / MyBatis *(선택)* |
 | **Database**  | MySQL **8.0.34** |
 |               | MySQL Workbench *(선택)* |
-| **IDE & Tools** | IntelliJ IDEA / Eclipse, VS Code, Postman, Git/GitHub |
+| **IDE & Tools** | IntelliJ IDEA, VS Code, Postman, Git/GitHub |
 
 
 
