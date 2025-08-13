@@ -1,33 +1,23 @@
 
-##  작업 환경 (Environment)
+## 작업 환경 (Environment)
 
-| 구분          | 기술 스택 / 도구 | 버전 |
-|---------------|----------------|------|
-| **Frontend**  | React          | 19.1.1 |
-|               | React DOM      | 19.1.1 |
-|               | React Router DOM | 7.8.0 |
-|               | Axios          | 1.11.0 |
-|               | Bootstrap      | 5.3.7 |
-|               | React Bootstrap | 2.10.10 |
-|               | JWT Decode     | 4.0.0 |
-|               | React Scripts  | 5.0.1 |
-|               | @testing-library/dom | 10.4.1 |
-|               | @testing-library/jest-dom | 6.6.4 |
-|               | @testing-library/react | 16.3.0 |
-|               | @testing-library/user-event | 13.5.0 |
-|               | Web Vitals     | 2.1.4 |
-| **Backend**   | Java           | 17   |
-|               | Spring Boot    | 3.x  |
-|               | Spring Security (JWT) | 최신 |
-|               | JPA(Hibernate) / MyBatis *(선택)* | 최신 |
-|               | Maven / Gradle | 최신 |
-| **Database**  | MySQL          | 8.0.34 |
-|               | MySQL Workbench *(선택)* | 최신 |
-| **Authentication** | JWT (JSON Web Token) | 최신 |
-| **IDE & Tools** | IntelliJ IDEA / Eclipse | 최신 |
-|               | VS Code        | 최신 |
-|               | Postman        | 최신 |
-|               | Git / GitHub   | 최신 |
+| 구분          | 기술 스택 / 도구 |
+|---------------|------------------|
+| **Frontend**  | React **19.1.1**, React DOM **19.1.1** |
+|               | React Router DOM **7.8.0** |
+|               | Axios **1.11.0** |
+|               | Bootstrap **5.3.7**, React Bootstrap **2.10.10** |
+|               | JWT Decode **4.0.0** |
+|               | React Scripts **5.0.1** |
+|               | Testing Library (DOM **10.4.1**, Jest-DOM **6.6.4**, React **16.3.0**, User Event **13.5.0**) |
+|               | Web Vitals **2.1.4** |
+| **Backend**   | Java **17** |
+|               | Spring Boot **3.x** |
+|               | Spring Security (JWT) |
+|               | JPA(Hibernate) / MyBatis *(선택)* |
+| **Database**  | MySQL **8.0.34** |
+|               | MySQL Workbench *(선택)* |
+| **IDE & Tools** | IntelliJ IDEA / Eclipse, VS Code, Postman, Git/GitHub |
 
 
 
